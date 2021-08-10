@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		21470AEA26C2322B00EA69F1 /* ErrandCompanionCode.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21470AE926C2322B00EA69F1 /* ErrandCompanionCode.storyboard */; };
 		C5FDC54226B9AB4300A9C757 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FDC54126B9AB4300A9C757 /* AppDelegate.swift */; };
 		C5FDC54426B9AB4300A9C757 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FDC54326B9AB4300A9C757 /* SceneDelegate.swift */; };
 		C5FDC54626B9AB4300A9C757 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FDC54526B9AB4300A9C757 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		21470AE926C2322B00EA69F1 /* ErrandCompanionCode.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = ErrandCompanionCode.storyboard; sourceTree = "<group>"; };
 		C5FDC53E26B9AB4300A9C757 /* new project2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "new project2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5FDC54126B9AB4300A9C757 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C5FDC54326B9AB4300A9C757 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 		C5FDC53526B9AB4300A9C757 = {
 			isa = PBXGroup;
 			children = (
+				21470AE926C2322B00EA69F1 /* ErrandCompanionCode.storyboard */,
 				C5FDC54026B9AB4300A9C757 /* new project2 */,
 				C5FDC53F26B9AB4300A9C757 /* Products */,
 			);
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21470AEA26C2322B00EA69F1 /* ErrandCompanionCode.storyboard in Resources */,
 				C5FDC54E26B9AB4500A9C757 /* LaunchScreen.storyboard in Resources */,
 				C5FDC55626B9AB9D00A9C757 /* Assets.xcassets in Resources */,
 				C5FDC54926B9AB4300A9C757 /* Main.storyboard in Resources */,
